@@ -1,1 +1,1 @@
-print(night1)
+print('night1')
